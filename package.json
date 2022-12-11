@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "^8.2.6",
     "@angular/router": "^8.2.6",
     "core-js": "^3.2.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.2",
     "rxjs": "^6.5.3",
     "zone.js": "~0.10.2"
